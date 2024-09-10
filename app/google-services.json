@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "476752092035",
+    "project_id": "quick-chat-9f425",
+    "storage_bucket": "quick-chat-9f425.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476752092035:android:44d66c2514754d3feb34b6",
+        "android_client_info": {
+          "package_name": "com.aumeca.mes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGkOn_GI3-qw8lTkN565DYqJvlDqZNbmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
